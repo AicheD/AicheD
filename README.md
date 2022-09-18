@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AicheD , Harry Z.
-- 🌱 I’m currently majoring in Electrical Engineering @ UF
+- 🌱 I’m currently majoring in Computer Engineering @ UF
 - 📫 How to reach me: harryanthonyhz1@gmail.com
 
 <!---
